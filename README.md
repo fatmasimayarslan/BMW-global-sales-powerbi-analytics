@@ -1,16 +1,16 @@
-#  BMW's Global Journey: 2023-2024 E-Commerce & Sales Analytics Dashboard
+# BMW's Global Journey: 2023-2024 E-Commerce & Sales Analytics Dashboard
 
-A Power BI dashboard analyzing BMW's global sales performance, vehicle distribution, customer demographics, and fuel-type transitions from 2023 to 2024 (However, the CSV dataset spans the years 2010–2024, and the project can be customized according to the available data upon request.)
-
----
-
-##  Dashboard Preview
-
-![BMW Sales Dashboard](dashboard_preview.png)
+An executive-level Power BI dashboard analyzing BMW's global sales performance, vehicle distribution, customer demographics, and fuel-type transitions from 2023 to 2024.
 
 ---
 
-##  Executive Summary & Key Insights
+## Dashboard Preview
+
+![BMW Sales Dashboard](Ekran%20Görüntüsü%20(8).png)
+
+---
+
+## Executive Summary & Key Insights
 
 * **Total Sales Performance:** Reached **$191M Total Sales** in 2024 with a **+6.46% YoY Growth** compared to 2023 ($179M).
 * **Fuel Type & Sustainability:** Tracks regional distribution across Diesel, Electric, Hybrid, and Petrol engines, highlighting market transition toward Electric and Hybrid vehicles.
@@ -19,7 +19,7 @@ A Power BI dashboard analyzing BMW's global sales performance, vehicle distribut
 
 ---
 
-##  Technical Implementation & Power BI Features
+## Technical Implementation & Power BI Features
 
 * **Data Modeling:** Multi-dimensional schema linking vehicle models, sales transactions, regional geometries, and fuel classifications.
 * **Advanced DAX Measures:**
@@ -30,7 +30,7 @@ A Power BI dashboard analyzing BMW's global sales performance, vehicle distribut
 
 ---
 
-##  How to View
+## How to View
 
 1. Clone or download this repository.
 2. Open the `Simay_Final_DB.pbix` file using **Power BI Desktop**.
@@ -38,6 +38,6 @@ A Power BI dashboard analyzing BMW's global sales performance, vehicle distribut
 
 ---
 
-##  Contact & Attribution
+## Contact & Attribution
 Developed by **Fatma Simay Arslan**  
-*MSc Student in Management Information Systems*
+*MSc and BA Student in Management Information Systems*
